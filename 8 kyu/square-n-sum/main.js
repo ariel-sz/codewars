@@ -10,3 +10,5 @@ function squareSum(numbers){
   }
   return result
 }
+
+
